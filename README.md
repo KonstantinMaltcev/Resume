@@ -14,4 +14,4 @@
 * Основы работы на языке Kotlin
 * Основы работы на языке Pyton
 
-![Мальцев Константин Алексеевич](file:///C:/Users/Maltk/Desktop/Resume/img/IMG_20201230_165700_740.jpg)
+![](file:///C:/Users/Maltk/Desktop/Resume/img/IMG_20201230_165700_740.png)
