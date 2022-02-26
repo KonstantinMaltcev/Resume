@@ -11,4 +11,5 @@
 * Основы работы на языке Kotlin
 * Основы работы на языке Pyton
 
+file:///C:/Users/Maltk/Desktop/Resume/img/IMG_20201230_165700_740.jpg
 ![](C:\Users\Maltk\Desktop\Resume\img)
